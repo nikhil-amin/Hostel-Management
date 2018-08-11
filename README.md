@@ -1,7 +1,7 @@
 # Hostel-Management
 Offline Hostel Management System (DesktopApplication)
 
-Hostel Management is an offline desktop application developed using [.NET Framework](https://www.microsoft.com/net/download/dotnet-framework-runtime) with [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) as front-end language and MS-SQL database. 
+Hostel Management is an offline desktop application developed using [.NET Framework](https://www.microsoft.com/net/download/dotnet-framework-runtime) with [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) as front-end language and [MS-SQL](https://www.microsoft.com/en-in/sql-server/) database. 
 
 ### Import Database:
 - Open [Database](https://github.com/nikhilamin073/Hostel-Management/tree/master/Database) folder.
